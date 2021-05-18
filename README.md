@@ -1,6 +1,13 @@
 # TernaryTree
 Project for Data Structures and Algorithms class - Implement a ternary tree that can add, remove, exchange and print with some twists
 
+# Program is run by:
+
+javac TernaryTree.java \
+java TernaryTree input.txt output.txt 
+
+# Assignment specifications:
+
 
 The problem: a very customized ternary tree\
 The task your system has to perform is to implement a ternary tree with non-empty strings as payload and a set of operations on the tree so that the system can read in a sequence of these operations from the input file and outputs the results from those operations that produce certain outputs (in addition to often manipulating the tree).
